@@ -1,8 +1,8 @@
 1 puts Hello, World!
-2;)
+2 puts ;)
 3 ばくばく亭のカレーは美味しいです。 
-4lol
-5 %%%%%
+4 puts lol
+5 puts %%%%%
 6:p
 7 I'm high tension....Yaaaaaaaaaaaaaaaaaha
 8 Gitでエクスタシー
